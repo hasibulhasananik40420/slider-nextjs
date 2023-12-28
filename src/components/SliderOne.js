@@ -397,7 +397,7 @@ const SliderOne = () => {
 
       </div> 
       
-      <div className="flex justify-between items-center">
+      <div className="flex justify-between items-center py-10">
         <span onClick={handlePrev} className="bg-white w-10 h-10 rounded-full shadow-2xl border flex justify-center items-center hover:bg-orange-500 group duration-300 cursor-pointer">
           <IoIosArrowBack className="text-black text-[18px] group-hover:text-white" />
         </span>
